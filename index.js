@@ -31,11 +31,11 @@ link = "https://forms.gle/gczdyypkbCNATAat9"
 elem = '.div1 > h3 > ul > .p5'
 updatePointContent(elem, ti, content, link)
 content = "<a>检视结果</a>"
-link = "https://chenin0423.synology.me:5504/"
+link = "https://my-google-api-server.onrender.com/report/"
 elem = '.div2 > .sub'
 updatePointContent(elem, ti, content, link)
 content = "<a>大區名單</a>"
-link = "https://chenin0423.synology.me:9090/names/"
+link = "https://my-google-api-server.onrender.com/names/"
 elem = '.div3 > .sub'
 updatePointContent(elem, ti, content, link)
 content = "<a>福音朋友名單登記表</a>"
