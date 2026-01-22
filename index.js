@@ -38,7 +38,11 @@ content = "<a>大區名單</a>"
 link = "https://my-google-api-server.onrender.com/names/"
 elem = '.div3 > .sub'
 updatePointContent(elem, ti, content, link)
+content = "<a>新人登记表</a>"
+link = "https://forms.gle/yKEDagMcpPjZn8j9A"
+elem = '.div4 > .sub'
+updatePointContent(elem, ti, content, link)
 content = "<a>福音朋友登記表</a>"
 link = "https://forms.gle/SDs1mH7AhXw4TtZm7"
-elem = '.div4 > .sub'
+elem = '.div5 > .sub'
 updatePointContent(elem, ti, content, link)
